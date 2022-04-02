@@ -7530,7 +7530,7 @@
     <meta charset="UTF-8">
     <style>
         @media(max-width:700px) {
-            body {
+            .dataName {
                 background-color: red;
             }
         }
