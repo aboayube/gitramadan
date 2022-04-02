@@ -7526,6 +7526,15 @@
 
         }));
     </script>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1256 " />
+    <meta charset="UTF-8">
+    <style>
+        @media(max-width:700px) {
+            body {
+                background-color: red;
+            }
+        }
+    </style>
 </head>
 
 <body>
