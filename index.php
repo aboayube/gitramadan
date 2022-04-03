@@ -87,7 +87,7 @@
 
     <img src="img/finale2.jpeg" width="100%" height="700px">
     <div class="form-data">
-        <form action="three.php" method="POST">
+        <form action="test.php" method="POST">
             <span> اسم</span><input type="text" name="name" class="nameInput" /><br>
             <span> المنصب</span> </span><input type="text" name="job" class="jobInput" /><br>
             <button>حصول علي معايدة</button>
